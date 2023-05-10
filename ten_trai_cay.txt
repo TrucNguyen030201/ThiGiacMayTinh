@@ -1,0 +1,11 @@
+Snakefruit	Mây thái
+Anomianthus	Dủ dẻ trâu
+		Chay
+Figs		Sung ngọt
+Nightshade	<thuộc họ cà>
+Pokeberri	Thương lục mỹ
+Physalis	tầm bóp nam mỹ
+Syzygium	trâm núi, trâm, trâm mốc
+
+thanhmai tu Nhu\other duoc doi ten tu thanhmai_252 ->
+tram = tramrung_187 -> 198
